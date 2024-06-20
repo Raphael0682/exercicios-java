@@ -1,2 +1,2 @@
 # exercicios-java
-Repositório para exercicios do curso de Java com IA. Show!
+Repositório para exercicios do curso de Java com IA.
